@@ -7,6 +7,10 @@
 		{
 			"name": "zuul-service",
 			"path": "zuul-service"
+		},
+		{
+			"name": "controle-de-pessoas",
+			"path": "controle-de-pessoas"
 		}
 	]
 }
