@@ -11,6 +11,12 @@
 		{
 			"name": "controle-de-pessoas",
 			"path": "controle-de-pessoas"
+		},
+		{
+			"path": "controle-animais-ms"
+		},
+		{
+			"path": "controle-pessoas-ms"
 		}
 	]
 }
