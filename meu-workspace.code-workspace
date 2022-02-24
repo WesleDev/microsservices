@@ -9,14 +9,13 @@
 			"path": "zuul-service"
 		},
 		{
-			"name": "controle-de-pessoas",
-			"path": "controle-de-pessoas"
+			"path": "controle-pessoas-ms"
 		},
 		{
 			"path": "controle-animais-ms"
 		},
 		{
-			"path": "controle-pessoas-ms"
+			"path": "arquitetura"
 		}
 	]
 }
